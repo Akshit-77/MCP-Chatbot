@@ -1,0 +1,55 @@
+date,product,category,sales_amount,quantity,region,salesperson
+2024-01-15,Laptop Pro,Electronics,1299.99,1,North,Alice Johnson
+2024-01-16,Office Chair,Furniture,249.99,2,South,Bob Smith
+2024-01-17,Smartphone X,Electronics,899.99,1,East,Carol Davis
+2024-01-18,Desk Lamp,Electronics,79.99,3,West,David Wilson
+2024-01-19,Standing Desk,Furniture,599.99,1,North,Alice Johnson
+2024-01-20,Tablet Mini,Electronics,399.99,2,South,Bob Smith
+2024-01-21,Ergonomic Mouse,Electronics,49.99,5,East,Carol Davis
+2024-01-22,Bookshelf,Furniture,199.99,1,West,David Wilson
+2024-01-23,Monitor 4K,Electronics,449.99,2,North,Alice Johnson
+2024-01-24,Coffee Machine,Appliances,299.99,1,South,Bob Smith
+2024-01-25,Wireless Headphones,Electronics,199.99,3,East,Carol Davis
+2024-01-26,Office Plant,Office Supplies,29.99,4,West,David Wilson
+2024-01-27,Gaming Keyboard,Electronics,129.99,2,North,Alice Johnson
+2024-01-28,Printer Laser,Electronics,399.99,1,South,Bob Smith
+2024-01-29,Cushioned Mat,Office Supplies,89.99,2,East,Carol Davis
+2024-01-30,Conference Table,Furniture,1299.99,1,West,David Wilson
+2024-02-01,Smart Watch,Electronics,349.99,2,North,Alice Johnson
+2024-02-02,Air Purifier,Appliances,249.99,1,South,Bob Smith
+2024-02-03,Wireless Charger,Electronics,59.99,4,East,Carol Davis
+2024-02-04,Storage Cabinet,Furniture,399.99,1,West,David Wilson
+2024-02-05,Bluetooth Speaker,Electronics,149.99,3,North,Alice Johnson
+2024-02-06,Microwave Oven,Appliances,199.99,1,South,Bob Smith
+2024-02-07,USB Hub,Electronics,39.99,6,East,Carol Davis
+2024-02-08,Executive Chair,Furniture,899.99,1,West,David Wilson
+2024-02-09,Webcam HD,Electronics,99.99,2,North,Alice Johnson
+2024-02-10,Vacuum Cleaner,Appliances,299.99,1,South,Bob Smith
+2024-02-11,Mechanical Pencils,Office Supplies,12.99,10,East,Carol Davis
+2024-02-12,Whiteboard,Office Supplies,149.99,1,West,David Wilson
+2024-02-13,Power Bank,Electronics,79.99,3,North,Alice Johnson
+2024-02-14,Espresso Machine,Appliances,599.99,1,South,Bob Smith
+2024-02-15,Document Scanner,Electronics,199.99,1,East,Carol Davis
+2024-02-16,Filing Cabinet,Furniture,299.99,1,West,David Wilson
+2024-02-17,Noise Cancelling Headphones,Electronics,299.99,2,North,Alice Johnson
+2024-02-18,Robot Vacuum,Appliances,399.99,1,South,Bob Smith
+2024-02-19,Desk Organizer,Office Supplies,24.99,5,East,Carol Davis
+2024-02-20,Adjustable Monitor Stand,Electronics,149.99,1,West,David Wilson
+2024-02-21,Graphics Tablet,Electronics,249.99,1,North,Alice Johnson
+2024-02-22,Blender Professional,Appliances,179.99,1,South,Bob Smith
+2024-02-23,Sticky Notes Pack,Office Supplies,8.99,8,East,Carol Davis
+2024-02-24,Portable SSD,Electronics,199.99,2,West,David Wilson
+2024-02-25,Smart Thermostat,Electronics,249.99,1,North,Alice Johnson
+2024-02-26,Toaster Oven,Appliances,129.99,1,South,Bob Smith
+2024-02-27,Label Maker,Office Supplies,79.99,1,East,Carol Davis
+2024-02-28,Ergonomic Keyboard,Electronics,149.99,2,West,David Wilson
+2024-03-01,Smart TV 55 inch,Electronics,799.99,1,North,Alice Johnson
+2024-03-02,Rice Cooker,Appliances,89.99,1,South,Bob Smith
+2024-03-03,Paper Shredder,Office Supplies,149.99,1,East,Carol Davis
+2024-03-04,Leather Office Chair,Furniture,699.99,1,West,David Wilson
+2024-03-05,Drone Camera,Electronics,599.99,1,North,Alice Johnson
+2024-03-06,Food Processor,Appliances,149.99,1,South,Bob Smith
+2024-03-07,Stapler Heavy Duty,Office Supplies,34.99,3,East,Carol Davis
+2024-03-08,Glass Desk,Furniture,499.99,1,West,David Wilson
+2024-03-09,VR Headset,Electronics,399.99,1,North,Alice Johnson
+2024-03-10,Slow Cooker,Appliances,79.99,2,South,Bob Smith
